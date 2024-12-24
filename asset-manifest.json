@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Landing/static/css/main.a78387fb.css",
+    "main.js": "/React-Landing/static/js/main.bde000f6.js",
+    "static/media/contactBanner.png": "/React-Landing/static/media/contactBanner.4e4816f81da73012bd5d.png",
+    "static/media/phoneImg.png": "/React-Landing/static/media/phoneImg.97b681f9c11e957d9282.png",
+    "static/media/starIcon.svg": "/React-Landing/static/media/starIcon.6511c98be678fee6b078e9fa9ebd314c.svg",
+    "static/media/arrowIcon.svg": "/React-Landing/static/media/arrowIcon.3a0f2909995ab7fb382df42f9c66f55b.svg",
+    "static/media/ringsIcon.svg": "/React-Landing/static/media/ringsIcon.0a13cb984b581947bdf3e358bae81e8f.svg",
+    "index.html": "/React-Landing/index.html",
+    "static/media/lineIcon.svg": "/React-Landing/static/media/lineIcon.f5f6d9011b42616670514135596b94dc.svg",
+    "main.a78387fb.css.map": "/React-Landing/static/css/main.a78387fb.css.map",
+    "main.bde000f6.js.map": "/React-Landing/static/js/main.bde000f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a78387fb.css",
+    "static/js/main.bde000f6.js"
+  ]
+}
