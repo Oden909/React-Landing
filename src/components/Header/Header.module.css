@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 100px;
+    margin-bottom: 10px;
+    background-color: #FFAA4C;
+}
+
+.nav {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.link {
+    color: #181818;
+    padding: 10px 20px;
+    background-color: #FFAA4C;
+    border: none;
+    border-radius: 8px;
+}
+
+.activeLink {
+    color: #FFFFFF;
+    padding: 10px 20px;
+    background-color: #181818;
+    border: none;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+@media (max-width: 375px) {
+    .header {
+        padding: 0;
+    }
+}
+
+
