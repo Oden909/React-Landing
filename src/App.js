@@ -6,7 +6,7 @@ import Home from './pages/HomePage';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <div>
         <Header/>
         <Routes>
@@ -14,7 +14,7 @@ function App() {
         </Routes>
         <Footer/>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
